@@ -1,6 +1,5 @@
 node_modules/
 typings/
 
-/lib/
 /.tmp/
 /ts3.4/
